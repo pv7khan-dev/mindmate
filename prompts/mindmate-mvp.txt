@@ -1,1 +1,38 @@
+MindMate is an AI-powered study coach for students.
 
+Core principle:
+The app should proactively tell students what to do next instead of waiting for them to ask.
+
+MVP Screens:
+1. Welcome
+2. Dashboard
+3. AI Coach
+4. Study Planner
+5. Profile
+
+Dashboard:
+- Your Next Step (largest card)
+- AI Recommendation
+- Upcoming Exams
+- Daily Progress
+- Study Streak
+
+AI Coach:
+- Today's Coaching
+- Chat interface
+- Suggested actions
+
+Study Planner:
+- Today's tasks
+- Weekly planner
+- Add task
+- Complete tasks
+
+Design:
+- Mobile-first
+- Modern
+- Blue and white theme
+- Clean and minimal
+
+Priority:
+Working functionality over perfect UI.
